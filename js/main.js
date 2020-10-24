@@ -17,3 +17,9 @@ console.log(lista.join("|"));
 var fruta = {nome: "maca", cor:"vermelha"};
 console.log(fruta);
 console.log(fruta.nome);
+
+// lista de dicionario
+
+var frutas = [{nome: "uva", cor:"roxa"}, {nome: "maca", cor:"vermelha"}];
+console.log(frutas);
+console.log(frutas[1].nome);
